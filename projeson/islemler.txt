@@ -1,0 +1,3 @@
+kerem 300.00
+algoritmaproje1 300.00
+algoritmaproje1 -40.00
